@@ -1,0 +1,14 @@
+C:\Users\Dani\Desktop\Ionel\Proiect_FIS\Proiect_FIS\Proiect_FIS\obj\Debug\Proiect_FIS_Filip.csproj.AssemblyReference.cache
+C:\Users\Dani\Desktop\Ionel\Proiect_FIS\Proiect_FIS\Proiect_FIS\obj\Debug\Proiect_FIS.AdminMenu.resources
+C:\Users\Dani\Desktop\Ionel\Proiect_FIS\Proiect_FIS\Proiect_FIS\obj\Debug\Proiect_FIS.LoginForm.resources
+C:\Users\Dani\Desktop\Ionel\Proiect_FIS\Proiect_FIS\Proiect_FIS\obj\Debug\Proiect_FIS.Properties.Resources.resources
+C:\Users\Dani\Desktop\Ionel\Proiect_FIS\Proiect_FIS\Proiect_FIS\obj\Debug\Proiect_FIS.SignUpForm.resources
+C:\Users\Dani\Desktop\Ionel\Proiect_FIS\Proiect_FIS\Proiect_FIS\obj\Debug\Proiect_FIS.UserMenu.resources
+C:\Users\Dani\Desktop\Ionel\Proiect_FIS\Proiect_FIS\Proiect_FIS\obj\Debug\Proiect_FIS_Filip.csproj.GenerateResource.cache
+C:\Users\Dani\Desktop\Ionel\Proiect_FIS\Proiect_FIS\Proiect_FIS\obj\Debug\Proiect_FIS_Filip.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\Ionel\Proiect_FIS\Proiect_FIS\Proiect_FIS\obj\Debug\Proiect_FIS.exe
+C:\Users\Dani\Desktop\Ionel\Proiect_FIS\Proiect_FIS\Proiect_FIS\obj\Debug\Proiect_FIS.pdb
+C:\Users\Dani\Desktop\Ionel\Proiect_FIS\Proiect_FIS\Proiect_FIS\bin\Debug\users.txt
+C:\Users\Dani\Desktop\Ionel\Proiect_FIS\Proiect_FIS\Proiect_FIS\bin\Debug\Proiect_FIS.exe.config
+C:\Users\Dani\Desktop\Ionel\Proiect_FIS\Proiect_FIS\Proiect_FIS\bin\Debug\Proiect_FIS.exe
+C:\Users\Dani\Desktop\Ionel\Proiect_FIS\Proiect_FIS\Proiect_FIS\bin\Debug\Proiect_FIS.pdb
