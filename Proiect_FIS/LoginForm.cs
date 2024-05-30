@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -26,8 +23,6 @@ namespace Proiect_FIS
             var loginResult = AuthenticateUser(username, password);
             if (loginResult.Item1)
             {
-                MessageBox.Show("Autentificare reușită!");
-
                 if (username == "admin@email.com" && password == "admin")
                 {
                     AdminMenu adminForm = new AdminMenu();
@@ -35,7 +30,7 @@ namespace Proiect_FIS
                 }
                 else
                 {
-                    UserMenu userForm = new UserMenu(loginResult.Item2);
+                    UserMenu userForm = new UserMenu(loginResult.Item2, username, password);
                     userForm.Show();
                 }
 

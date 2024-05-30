@@ -33,8 +33,6 @@
             this.Respinge_btn = new System.Windows.Forms.Button();
             this.lstUsers = new System.Windows.Forms.ListBox();
             this.lstApplicants = new System.Windows.Forms.ListBox();
-            this.txtApplicantName = new System.Windows.Forms.TextBox();
-            this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.ANULEAZA_btn = new System.Windows.Forms.Button();
@@ -53,7 +51,7 @@
             // 
             // Aprobare_btn
             // 
-            this.Aprobare_btn.Location = new System.Drawing.Point(335, 384);
+            this.Aprobare_btn.Location = new System.Drawing.Point(337, 363);
             this.Aprobare_btn.Name = "Aprobare_btn";
             this.Aprobare_btn.Size = new System.Drawing.Size(113, 31);
             this.Aprobare_btn.TabIndex = 1;
@@ -63,7 +61,7 @@
             // 
             // Respinge_btn
             // 
-            this.Respinge_btn.Location = new System.Drawing.Point(511, 384);
+            this.Respinge_btn.Location = new System.Drawing.Point(511, 363);
             this.Respinge_btn.Name = "Respinge_btn";
             this.Respinge_btn.Size = new System.Drawing.Size(121, 31);
             this.Respinge_btn.TabIndex = 2;
@@ -87,22 +85,6 @@
             this.lstApplicants.Size = new System.Drawing.Size(206, 199);
             this.lstApplicants.TabIndex = 4;
             // 
-            // txtApplicantName
-            // 
-            this.txtApplicantName.Location = new System.Drawing.Point(316, 340);
-            this.txtApplicantName.Name = "txtApplicantName";
-            this.txtApplicantName.Size = new System.Drawing.Size(172, 20);
-            this.txtApplicantName.TabIndex = 5;
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(187, 343);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(112, 13);
-            this.label1.TabIndex = 6;
-            this.label1.Text = "Nume User / Aplicant:";
-            // 
             // label2
             // 
             this.label2.AutoSize = true;
@@ -123,7 +105,7 @@
             // 
             // ANULEAZA_btn
             // 
-            this.ANULEAZA_btn.Location = new System.Drawing.Point(165, 384);
+            this.ANULEAZA_btn.Location = new System.Drawing.Point(160, 363);
             this.ANULEAZA_btn.Name = "ANULEAZA_btn";
             this.ANULEAZA_btn.Size = new System.Drawing.Size(109, 31);
             this.ANULEAZA_btn.TabIndex = 9;
@@ -161,8 +143,6 @@
             this.Controls.Add(this.ANULEAZA_btn);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.txtApplicantName);
             this.Controls.Add(this.lstApplicants);
             this.Controls.Add(this.lstUsers);
             this.Controls.Add(this.Respinge_btn);
@@ -182,8 +162,6 @@
         private System.Windows.Forms.Button Respinge_btn;
         private System.Windows.Forms.ListBox lstUsers;
         private System.Windows.Forms.ListBox lstApplicants;
-        private System.Windows.Forms.TextBox txtApplicantName;
-        private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button ANULEAZA_btn;

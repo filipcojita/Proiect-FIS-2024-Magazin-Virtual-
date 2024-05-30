@@ -1,0 +1,5 @@
+ProdusNeg, 100, Filip@email.com
+masina2, Filip@email.com, 40000
+masina2, Filip@email.com, 40000
+tesla model y, Filip@email.com, 40000
+noneg, 111, Filip@email.com

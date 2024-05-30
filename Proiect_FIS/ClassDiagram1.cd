@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Proiect_FIS.AddProductForm">
+    <Position X="8.25" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAIKgAgIiAAABMAAAGAAAACAAAAAAAAAAAQAAgAASg=</HashCode>
+      <FileName>AddProductForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="userEmail" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Proiect_FIS.AdminMenu">
+    <Position X="11.25" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>FCAIACBAACQAABAQAACAAAAKEAIkAIAAABIAAhAAgCA=</HashCode>
+      <FileName>AdminMenu.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="usersList" />
+      <Field Name="applicantsList" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Proiect_FIS.LoginForm">
+    <Position X="14" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAgBCAAAACAAABAAAQCAAAACAAAAiIAAABAAABBAAAA=</HashCode>
+      <FileName>LoginForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proiect_FIS.MeniuOferte">
+    <Position X="16.75" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACEAIBIQABCIIAECAAAQAAAAACAAAgAAgCg=</HashCode>
+      <FileName>MeniuOferte.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="userEmail" />
+      <Field Name="password" />
+      <Field Name="isSeller" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Proiect_FIS.Product">
+    <Position X="11.75" Y="14.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAQAAEAAAAAAAAAACAABACBAAEAAAAAAA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Descriere" />
+      <Property Name="Id" />
+      <Property Name="Negociabil" />
+      <Property Name="Nume" />
+      <Property Name="Pret" />
+      <Property Name="PretMinim" />
+      <Property Name="Vanzator" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Proiect_FIS.Program">
+    <Position X="14.75" Y="14.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proiect_FIS.SellerMenu">
+    <Position X="24.75" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AgQMAAEAECAIABIAAAGIAAACAAAAAAAAACAAAAAAACg=</HashCode>
+      <FileName>SellerMenu.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="userEmail" />
+      <Field Name="userPassword" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Proiect_FIS.SignUpForm">
+    <Position X="19.5" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>EAEBAABAACAEABAAAACAAAACAAQAgCAAAIAAAAhAoCA=</HashCode>
+      <FileName>SignUpForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proiect_FIS.UserMenu">
+    <Position X="22.25" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BgAMAAAAESKIAhIBCAGAQBACIAIQEAAAAAAAABAgACg=</HashCode>
+      <FileName>UserMenu.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="isApproved" />
+      <Field Name="userEmail" />
+      <Field Name="userPassword" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Proiect_FIS.Properties.Resources">
+    <Position X="17.75" Y="14.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="resourceCulture" />
+      <Field Name="resourceMan" />
+      <Property Name="Culture" />
+      <Property Name="ResourceManager" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Proiect_FIS.Properties.Settings" Collapsed="true">
+    <Position X="1.25" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form">
+    <Position X="4.75" Y="0.75" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="System.Windows.Forms.Form.ControlCollection" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Object">
+    <Position X="14.75" Y="11.25" Width="2.25" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Configuration.ApplicationSettingsBase" Collapsed="true">
+    <Position X="1.25" Y="1.25" Width="2.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Collections.Generic.List&lt;T&gt;" Collapsed="true">
+    <Position X="10.25" Y="12" Width="2.75" />
+    <NestedTypes>
+      <Struct Name="System.Collections.Generic.List&lt;T&gt;.Enumerator" Collapsed="true">
+        <TypeIdentifier />
+        <Lollipop Position="0.2" />
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.String" Collapsed="true">
+    <Position X="7.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Globalization.CultureInfo" Collapsed="true">
+    <Position X="22" Y="14.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Resources.ResourceManager" Collapsed="true">
+    <Position X="22" Y="15.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Struct Name="System.Boolean" Collapsed="true">
+    <Position X="20.5" Y="11" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Struct>
+  <Struct Name="System.Int32" Collapsed="true">
+    <Position X="8.75" Y="17.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Struct>
+  <Struct Name="System.Decimal" Collapsed="true">
+    <Position X="11.75" Y="18.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

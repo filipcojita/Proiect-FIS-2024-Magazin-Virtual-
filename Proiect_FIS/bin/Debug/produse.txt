@@ -1,0 +1,4 @@
+6,awd,24,Filip@email.com,wad,True,12
+9,tesla model 3,65000,Filip@email.com,model 3 elonmusk,True,35
+10,qdaw,2000,Filip@email.com,awd,True,1000
+11,G-Class,100000,Filip@email.com,Mercedes suv,True,90000

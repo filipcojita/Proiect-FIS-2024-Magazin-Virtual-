@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86E31A26-2B2F-4E36-A967-104E9673FA40}|Proiect_FIS\\Proiect_FIS_Filip.csproj|C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\proiect_fis\\meniuoferte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E31A26-2B2F-4E36-A967-104E9673FA40}|Proiect_FIS\\Proiect_FIS_Filip.csproj|solutionrelative:proiect_fis\\meniuoferte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E31A26-2B2F-4E36-A967-104E9673FA40}|Proiect_FIS\\Proiect_FIS_Filip.csproj|c:\\users\\dani\\desktop\\ionel\\proiect_fis\\proiect_fis\\proiect_fis\\meniuoferte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86E31A26-2B2F-4E36-A967-104E9673FA40}|Proiect_FIS\\Proiect_FIS_Filip.csproj|solutionrelative:proiect_fis\\meniuoferte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E31A26-2B2F-4E36-A967-104E9673FA40}|Proiect_FIS\\Proiect_FIS_Filip.csproj|C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\proiect_fis\\addproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E31A26-2B2F-4E36-A967-104E9673FA40}|Proiect_FIS\\Proiect_FIS_Filip.csproj|solutionrelative:proiect_fis\\addproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E31A26-2B2F-4E36-A967-104E9673FA40}|Proiect_FIS\\Proiect_FIS_Filip.csproj|C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\proiect_fis\\addproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86E31A26-2B2F-4E36-A967-104E9673FA40}|Proiect_FIS\\Proiect_FIS_Filip.csproj|solutionrelative:proiect_fis\\addproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E31A26-2B2F-4E36-A967-104E9673FA40}|Proiect_FIS\\Proiect_FIS_Filip.csproj|c:\\users\\dani\\desktop\\ionel\\proiect_fis\\proiect_fis\\proiect_fis\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E31A26-2B2F-4E36-A967-104E9673FA40}|Proiect_FIS\\Proiect_FIS_Filip.csproj|solutionrelative:proiect_fis\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E31A26-2B2F-4E36-A967-104E9673FA40}|Proiect_FIS\\Proiect_FIS_Filip.csproj|c:\\users\\dani\\desktop\\ionel\\proiect_fis\\proiect_fis\\proiect_fis\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86E31A26-2B2F-4E36-A967-104E9673FA40}|Proiect_FIS\\Proiect_FIS_Filip.csproj|solutionrelative:proiect_fis\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E31A26-2B2F-4E36-A967-104E9673FA40}|Proiect_FIS\\Proiect_FIS_Filip.csproj|C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\proiect_fis\\sellermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E31A26-2B2F-4E36-A967-104E9673FA40}|Proiect_FIS\\Proiect_FIS_Filip.csproj|solutionrelative:proiect_fis\\sellermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E31A26-2B2F-4E36-A967-104E9673FA40}|Proiect_FIS\\Proiect_FIS_Filip.csproj|C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\proiect_fis\\sellermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86E31A26-2B2F-4E36-A967-104E9673FA40}|Proiect_FIS\\Proiect_FIS_Filip.csproj|solutionrelative:proiect_fis\\sellermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E31A26-2B2F-4E36-A967-104E9673FA40}|Proiect_FIS\\Proiect_FIS_Filip.csproj|C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\proiect_fis\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E31A26-2B2F-4E36-A967-104E9673FA40}|Proiect_FIS\\Proiect_FIS_Filip.csproj|solutionrelative:proiect_fis\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E31A26-2B2F-4E36-A967-104E9673FA40}|Proiect_FIS\\Proiect_FIS_Filip.csproj|C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\proiect_fis\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86E31A26-2B2F-4E36-A967-104E9673FA40}|Proiect_FIS\\Proiect_FIS_Filip.csproj|solutionrelative:proiect_fis\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E31A26-2B2F-4E36-A967-104E9673FA40}|Proiect_FIS\\Proiect_FIS_Filip.csproj|c:\\users\\dani\\desktop\\ionel\\proiect_fis\\proiect_fis\\proiect_fis\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86E31A26-2B2F-4E36-A967-104E9673FA40}|Proiect_FIS\\Proiect_FIS_Filip.csproj|solutionrelative:proiect_fis\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E31A26-2B2F-4E36-A967-104E9673FA40}|Proiect_FIS\\Proiect_FIS_Filip.csproj|C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\proiect_fis\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E31A26-2B2F-4E36-A967-104E9673FA40}|Proiect_FIS\\Proiect_FIS_Filip.csproj|solutionrelative:proiect_fis\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E31A26-2B2F-4E36-A967-104E9673FA40}|Proiect_FIS\\Proiect_FIS.csproj|C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\proiect_fis\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E31A26-2B2F-4E36-A967-104E9673FA40}|Proiect_FIS\\Proiect_FIS.csproj|solutionrelative:proiect_fis\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E31A26-2B2F-4E36-A967-104E9673FA40}|Proiect_FIS\\Proiect_FIS_Filip.csproj|C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\proiect_fis\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E31A26-2B2F-4E36-A967-104E9673FA40}|Proiect_FIS\\Proiect_FIS_Filip.csproj|solutionrelative:proiect_fis\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E31A26-2B2F-4E36-A967-104E9673FA40}|Proiect_FIS\\Proiect_FIS.csproj|C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\proiect_fis\\sellermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E31A26-2B2F-4E36-A967-104E9673FA40}|Proiect_FIS\\Proiect_FIS.csproj|solutionrelative:proiect_fis\\sellermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E31A26-2B2F-4E36-A967-104E9673FA40}|Proiect_FIS\\Proiect_FIS.csproj|C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\proiect_fis\\sellermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86E31A26-2B2F-4E36-A967-104E9673FA40}|Proiect_FIS\\Proiect_FIS.csproj|solutionrelative:proiect_fis\\sellermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MeniuOferte.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\Proiect_FIS\\MeniuOferte.cs",
+              "RelativeDocumentMoniker": "Proiect_FIS\\MeniuOferte.cs",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\Proiect_FIS\\MeniuOferte.cs [Design]",
+              "RelativeToolTip": "Proiect_FIS\\MeniuOferte.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:53:06.999Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\Proiect_FIS\\UserMenu.cs",
+              "RelativeDocumentMoniker": "Proiect_FIS\\UserMenu.cs",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\Proiect_FIS\\UserMenu.cs",
+              "RelativeToolTip": "Proiect_FIS\\UserMenu.cs",
+              "ViewState": "AQIAAAgBAAAAAAAAAAAkwCcBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:50:35.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\Proiect_FIS\\UserMenu.cs",
+              "RelativeDocumentMoniker": "Proiect_FIS\\UserMenu.cs",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\Proiect_FIS\\UserMenu.cs [Design]",
+              "RelativeToolTip": "Proiect_FIS\\UserMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:50:34.041Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddProductForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\Proiect_FIS\\AddProductForm.cs",
+              "RelativeDocumentMoniker": "Proiect_FIS\\AddProductForm.cs",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\Proiect_FIS\\AddProductForm.cs [Design]",
+              "RelativeToolTip": "Proiect_FIS\\AddProductForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T23:34:13.02Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\Proiect_FIS\\AdminMenu.cs",
+              "RelativeDocumentMoniker": "Proiect_FIS\\AdminMenu.cs",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\Proiect_FIS\\AdminMenu.cs [Design]",
+              "RelativeToolTip": "Proiect_FIS\\AdminMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T23:34:08.437Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SellerMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\Proiect_FIS\\SellerMenu.cs",
+              "RelativeDocumentMoniker": "Proiect_FIS\\SellerMenu.cs",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\Proiect_FIS\\SellerMenu.cs",
+              "RelativeToolTip": "Proiect_FIS\\SellerMenu.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAmwGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T22:12:05.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SellerMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\Proiect_FIS\\SellerMenu.cs",
+              "RelativeDocumentMoniker": "Proiect_FIS\\SellerMenu.cs",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\Proiect_FIS\\SellerMenu.cs [Design]",
+              "RelativeToolTip": "Proiect_FIS\\SellerMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T22:11:53.618Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MeniuOferte.cs",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\Proiect_FIS\\MeniuOferte.cs",
+              "RelativeDocumentMoniker": "Proiect_FIS\\MeniuOferte.cs",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\Proiect_FIS\\MeniuOferte.cs",
+              "RelativeToolTip": "Proiect_FIS\\MeniuOferte.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAuwJcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T23:05:53.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\Proiect_FIS\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Proiect_FIS\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\Proiect_FIS\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Proiect_FIS\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T22:27:33.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddProductForm.cs",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\Proiect_FIS\\AddProductForm.cs",
+              "RelativeDocumentMoniker": "Proiect_FIS\\AddProductForm.cs",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\Proiect_FIS\\AddProductForm.cs",
+              "RelativeToolTip": "Proiect_FIS\\AddProductForm.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAuwHEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T23:34:14.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\Proiect_FIS\\AdminMenu.cs",
+              "RelativeDocumentMoniker": "Proiect_FIS\\AdminMenu.cs",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\Proiect_FIS\\AdminMenu.cs",
+              "RelativeToolTip": "Proiect_FIS\\AdminMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T22:15:28.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\Proiect_FIS\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Proiect_FIS\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\Proiect_FIS\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Proiect_FIS\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T22:11:26.428Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\Proiect_FIS\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Proiect_FIS\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\Proiect_FIS\\LoginForm.cs",
+              "RelativeToolTip": "Proiect_FIS\\LoginForm.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAwEkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T19:38:51.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\Proiect_FIS\\AdminMenu.cs",
+              "RelativeDocumentMoniker": "Proiect_FIS\\AdminMenu.cs",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\Proiect_FIS\\AdminMenu.cs",
+              "RelativeToolTip": "Proiect_FIS\\AdminMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:14:33.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SellerMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\Proiect_FIS\\SellerMenu.cs",
+              "RelativeDocumentMoniker": "Proiect_FIS\\SellerMenu.cs",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\Proiect_FIS\\SellerMenu.cs",
+              "RelativeToolTip": "Proiect_FIS\\SellerMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:24:31.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SellerMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\Proiect_FIS\\SellerMenu.cs",
+              "RelativeDocumentMoniker": "Proiect_FIS\\SellerMenu.cs",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\Ionel\\Proiect_FIS\\Proiect_FIS\\Proiect_FIS\\SellerMenu.cs [Design]",
+              "RelativeToolTip": "Proiect_FIS\\SellerMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:40:30.893Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

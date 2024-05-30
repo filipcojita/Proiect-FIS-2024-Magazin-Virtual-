@@ -1,5 +1,4 @@
-﻿admin@email.com,admin,true
-
-Ionel@email.com,Ionel,true
+admin@email.com,admin,true
 Filip@email.com,Filip,true
+Ionel@email.com,Ionel,false
 Andreea@email.com,Andreea,false
